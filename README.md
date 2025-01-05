@@ -1,5 +1,6 @@
 # Sign Language Classification using Resnet-50
 bunnysaini/Sign-Language-Classification
+pavankumarm2505/Sign-Language-Classification
 
 ## Abstract
 Sign Language is an integral part of the lives of the deaf, mute, and hard of hearing (HOH). However, there exists a very slim number of people who can readily understand and translate the gestures and signs of Sign Language for them. The project aims to translate Indian Sign Language (ISL) into text by employing deep learning techniques such as Convolutional Neural Networks (CNN) to help the deaf and mute communicate with ease. 
